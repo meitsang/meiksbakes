@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family:'Merriweather', serifs;
+}
+
+h1 {
+  color: #eb6383;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 55px auto 0 auto;
+}
+
+h2 {
+  color: #fa9191;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.7rem;
+  font-weight: bold;
+  padding-bottom: 100px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.vegan {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #ddf3f5;
+  position: relative;
+  padding-top: 80px;
+  margin-bottom: 50px;
+}
+
+.topnav {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  margin: 30px;
+}
+
+.active {
+  color: #eb6383;
+}
+
+a {
+  color: #fa9191;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  margin: 15px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eb6383;
+}
+
+.bottom-plant {
+  position: absolute;
+  left: 400px;
+  bottom: 90px;
+}
+
+.top-plant {
+  position: absolute;
+  right: 400px;
+  top: 90px;
+}
+
+.middle-container {
+  width: 60%;
+  margin: auto;
+}
+
+.gallery {
+  margin: 0 auto 50px auto;
+}
+
+.pride-cake {
+display: inline-block;
+width: 30%;
+margin: 10px;
+}
+
+.berries {
+display: inline-block;
+width: 30%;
+margin: 10px;
+}
+
+.chocolate-cake {
+display: inline-block;
+width: 30%;
+margin: 10px;
+}
+
+.choc-cupcakes {
+display: inline-block;
+width: 30%;
+margin: 10px;
+}
+
+.twix {
+display: inline-block;
+width: 30%;
+margin: 10px;
+}
+
+.strawberry-cupcake {
+display: inline-block;
+width: 30%;
+margin: 10px;
+}
+
+.watercolour-cake {
+display: inline-block;
+width: 30%;
+margin: 10px;
+}
+
+.banana-bread {
+display: inline-block;
+width: 30%;
+margin: 10px;
+}
+
+.vicsponge {
+display: inline-block;
+width: 30%;
+margin: 10px;
+}
+
+.enquire {
+  margin: 60px auto 100px auto;
+  line-height: 2;
+  letter-spacing: 0.02em;
+}
+
+.bottom-container {
+  background-color: #ddf3f5;
+  padding-bottom: 25px;
+  padding-top: 50px;
+}
+
+.footer-link {
+  color: #fa9191;
+  text-decoration: underline;
+}
+
+.copyright {
+  color: #11999E;
+}

@@ -1,0 +1,178 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family:'Merriweather', serifs;
+}
+
+h1 {
+  color: #eb6383;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 55px auto 0 auto;
+}
+
+h2 {
+  color: #fa9191;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-color: #ddf3f5;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  margin: 65px auto;
+  width: 4%;
+}
+
+p {
+  letter-spacing: 0.02em;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #ddf3f5;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 50px;
+}
+
+.topnav {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  margin: 30px;
+}
+
+.active {
+  color: #eb6383;
+}
+
+a {
+  color: #fa9191;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  margin: 15px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eb6383;
+}
+
+.vegan {
+  text-decoration: underline;
+}
+
+.bottom-plant {
+  position: absolute;
+  left: 400px;
+  bottom: 530px;
+}
+
+.top-plant {
+  position: absolute;
+  right: 400px;
+  top: 90px;
+}
+
+.middle-container {
+margin: 60px auto;
+}
+
+.skills {
+  margin: 50px auto;
+}
+
+.skill-row {
+  margin: 65px auto;
+  padding: 10px;
+  text-align: left;
+  width: 50%;
+}
+
+.recipes {
+  line-height: 2;
+}
+
+.dough {
+  float: left;
+  margin-right: 30px;
+  margin-top: 15px;
+}
+
+.mixer {
+  float: right;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.gallerylink {
+  color: #000000;
+  font-family: Merriweather, serif;
+  font-weight: normal;
+  text-decoration: underline;
+  margin: 0;
+}
+
+.gallerylink:hover {
+  color: #11999E;
+}
+
+.contact-me {
+  margin: 50px auto 50px auto;
+  width: 50%;
+  text-align: center;
+}
+
+.delivery {
+  font-size: 0.8rem;
+}
+
+.btn {
+border-radius: 15px;
+color: #FFFFFF;
+font-family: 'Montserrat', sans-serif;
+font-size: 15px;
+font-weight: bold;
+letter-spacing: 0.07em;
+margin-top: 15px;
+padding: 15px;
+background-color: #11999E;
+text-shadow: 1px 1px 20px #000000;
+border: solid #11999E 2px;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+text-align: center;
+}
+
+.btn:hover {
+border: solid #109094 2px;
+background-color: #109094;
+border-radius: 15px;
+color: #FFFFFF;
+text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #ddf3f5;
+  padding-bottom: 25px;
+  padding-top: 50px;
+}
+
+.footer-link {
+  color: #fa9191;
+  text-decoration: underline;
+}
+
+.copyright {
+  color: #11999E;
+}
